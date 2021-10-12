@@ -1,2 +1,2 @@
 # Hackerrank
-Hackerrank problems.
+Hackerrank problems
