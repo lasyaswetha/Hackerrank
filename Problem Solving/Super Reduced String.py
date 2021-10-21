@@ -6,7 +6,7 @@ while True:
             break
     else:
         break
-if(s):
+if(s==True):
     print(s)
 else:
     print("Empty String")
